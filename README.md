@@ -10,7 +10,7 @@ Goran SARRIBOUETTE - Maël FIAUDRIN - Loreena FAUCHER - Julian DESMARTIN - Valen
 
 Tout d'abord, Loreena n'ayant pas d'ordinateur portable à disposition, nous avons réalisé une partie de notre travail en commun.
 
-Ainsi, avec Loreena nous avons commencé par réfléchir à comment nous allons mettre en place la partie de gestion des plannings afin que toute l'équipe parte sur une idée commune et puisse se répartir le travail à accomplir plus facilement. De ce fait, nous sommes allé au tableau pour s'accorder sur une maquette et un système de gestion des plannings. (Les documents issus de cette analyse sont disponible dans la dernière partie).
+Ainsi, avec Loreena nous avons commencé par réfléchir à comment nous allons mettre en place la partie de gestion des plannings afin que toute l'équipe parte sur une idée commune et puisse se répartir le travail à accomplir plus facilement. De ce fait, nous sommes allé au tableau pour s'accorder sur une maquette et un système de gestion des plannings. 
 
 Une fois que nous avons validé la partie conception avec le reste du groupe, nous avons implémenté la base du projet en récupérant une version de full calendar se rapprochant de notre conception de la gestion des plannings et l'avons adapté à notre projet.
 
@@ -24,8 +24,14 @@ Enfin, je me suis occupé de mettre à jour la sélection des commandes suite à
 
 ## Activités de Loreena
 
-
-
+  Nous avons commencé notre projet par une phase de compréhension ponctué de maquettes et de questions. Après s'être tous mis d'accord sur le sujet que nous voulions prendre, nous avons commencer à essayer de déterminer ce que nous allions faire visuellement et techniquement.
+  
+  J'étais en charge de poser les questions et de noter les informations sur une feuille dont chaque membre du groupe avait une copie afin que nous puissions prendre en compte les éléments fournis afin de réaliser notre projet. Je me suis ensuite concentrée sur la partie graphique de l'application afin de déterminer comment et où nous allions intégrer nos éléments pour la création de planning. 
+  
+  N'ayant pas d'ordinateur portable, je me suis mise en binôme avec Maël afin de pouvoir aider à la réalisation technique du projet. Je faisais les recherches pour la prochaine heure de TP chez moi et j'utilisais les informations obtenues lors des cours avec Maël afin d'avancer dans le projet.
+  
+  Pour la partie technique, nous avons réalisé trop tard que la version de fullcalendar que nous avions implémentée n'était pas celle permettant de réaliser le travail le plus efficacement et facilement possible. Néanmoin, nous avons fait avec par manque de temps et de conaissances sur le sujet.
+ 
 ## Activités de Julian
 
 
@@ -35,5 +41,4 @@ Enfin, je me suis occupé de mettre à jour la sélection des commandes suite à
 
 
 ## Document issus de la phase de conception pré-développement
-
 
